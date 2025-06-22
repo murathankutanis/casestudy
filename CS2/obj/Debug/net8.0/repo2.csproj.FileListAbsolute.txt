@@ -1,0 +1,14 @@
+/Users/murathankutanis/Desktop/repo2/bin/Debug/net8.0/repo2
+/Users/murathankutanis/Desktop/repo2/bin/Debug/net8.0/repo2.deps.json
+/Users/murathankutanis/Desktop/repo2/bin/Debug/net8.0/repo2.runtimeconfig.json
+/Users/murathankutanis/Desktop/repo2/bin/Debug/net8.0/repo2.dll
+/Users/murathankutanis/Desktop/repo2/bin/Debug/net8.0/repo2.pdb
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.AssemblyInfoInputs.cache
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.AssemblyInfo.cs
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.csproj.CoreCompileInputs.cache
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.dll
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/refint/repo2.dll
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.pdb
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/repo2.genruntimeconfig.cache
+/Users/murathankutanis/Desktop/repo2/obj/Debug/net8.0/ref/repo2.dll
